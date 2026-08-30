@@ -1,87 +1,11 @@
-# seo-discovery-index
+# Current release URL discovery index
 
-Public discovery mirror for the current release.
-
+- Source release: 20260828-shared-180k-wave60000-v9r4
 - URL entries: **587,255**
-- Sitemap shards: **267**
-- Entries per shard: up to **2,200**
-- Encoding: percent-encoded URL paths for stable XML transport
-- Index: [sitemap-index.xml](./sitemap-index.xml)
-- Manifest: [manifest.json](./manifest.json)
+- Markdown shards: **267**
+- Entries per shard: up to **2200**
 
-## baike Markdown discovery
-
-Current www.baike.emago.cn pages are listed as Markdown links at repository root.
-
-- Pages: **20,401**
-- Shards: **52**
-- Entries per shard: up to **400**
-- Index: [urls-index.md](./urls-index.md)
-- Manifest: [urls-manifest.json](./urls-manifest.json)
-
-- [urls-001.md](./urls-001.md)
-- [urls-002.md](./urls-002.md)
-- [urls-003.md](./urls-003.md)
-- [urls-004.md](./urls-004.md)
-- [urls-005.md](./urls-005.md)
-- [urls-006.md](./urls-006.md)
-- [urls-007.md](./urls-007.md)
-- [urls-008.md](./urls-008.md)
-- [urls-009.md](./urls-009.md)
-- [urls-010.md](./urls-010.md)
-- [urls-011.md](./urls-011.md)
-- [urls-012.md](./urls-012.md)
-- [urls-013.md](./urls-013.md)
-- [urls-014.md](./urls-014.md)
-- [urls-015.md](./urls-015.md)
-- [urls-016.md](./urls-016.md)
-- [urls-017.md](./urls-017.md)
-- [urls-018.md](./urls-018.md)
-- [urls-019.md](./urls-019.md)
-- [urls-020.md](./urls-020.md)
-- [urls-021.md](./urls-021.md)
-- [urls-022.md](./urls-022.md)
-- [urls-023.md](./urls-023.md)
-- [urls-024.md](./urls-024.md)
-- [urls-025.md](./urls-025.md)
-- [urls-026.md](./urls-026.md)
-- [urls-027.md](./urls-027.md)
-- [urls-028.md](./urls-028.md)
-- [urls-029.md](./urls-029.md)
-- [urls-030.md](./urls-030.md)
-- [urls-031.md](./urls-031.md)
-- [urls-032.md](./urls-032.md)
-- [urls-033.md](./urls-033.md)
-- [urls-034.md](./urls-034.md)
-- [urls-035.md](./urls-035.md)
-- [urls-036.md](./urls-036.md)
-- [urls-037.md](./urls-037.md)
-- [urls-038.md](./urls-038.md)
-- [urls-039.md](./urls-039.md)
-- [urls-040.md](./urls-040.md)
-- [urls-041.md](./urls-041.md)
-- [urls-042.md](./urls-042.md)
-- [urls-043.md](./urls-043.md)
-- [urls-044.md](./urls-044.md)
-- [urls-045.md](./urls-045.md)
-- [urls-046.md](./urls-046.md)
-- [urls-047.md](./urls-047.md)
-- [urls-048.md](./urls-048.md)
-- [urls-049.md](./urls-049.md)
-- [urls-050.md](./urls-050.md)
-- [urls-051.md](./urls-051.md)
-- [urls-052.md](./urls-052.md)
-
-The canonical publication source remains the origin release. Crawl and index results are measured from server logs and search-platform evidence; this mirror does not imply indexing or traffic guarantees.
-## All-host Markdown discovery
-
-The current release URLs for all configured hosts are also listed as root-level Markdown links.
-
-- URL entries: **587,255**
-- Shards: **267**
-- Entries per shard: up to **2,200**
-- Index: [all-urls-index.md](./all-urls-index.md)
-- Manifest: [all-urls-manifest.json](./all-urls-manifest.json)
+## Shards
 
 - [all-urls-001.md](./all-urls-001.md)
 - [all-urls-002.md](./all-urls-002.md)
@@ -350,5 +274,3 @@ The current release URLs for all configured hosts are also listed as root-level 
 - [all-urls-265.md](./all-urls-265.md)
 - [all-urls-266.md](./all-urls-266.md)
 - [all-urls-267.md](./all-urls-267.md)
-
-The canonical publication source remains the origin release. Crawl and index results are measured from server logs and search-platform evidence; this mirror does not imply indexing or traffic guarantees.
